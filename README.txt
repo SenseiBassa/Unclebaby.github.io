@@ -1,32 +1,76 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Hi, I'm Bassa Joshua Samuel 👋  
+**Prospective PhD Student in Biomedical Engineering/Cell and Molecular Biology/Genomics**  
+Msc - University of Glasgow | James Watts School of Engineering  
 
+---
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+### 👀 I am passionate about:  
+- Cancer Biology  
+- Cellular Mechanisms  
+- Cell and Tissue Engineering  
+- Molecular Diagnostics  
+- Pathological Screening  
+- Medical Imaging  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I focus on developing sustainable, cost-effective technologies for healthcare, including:  
+- Eco-friendly devices like bioresorbable electronics  
+- Biosensors  
+- Energy storage solutions  
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+### 💞️ Collaboration Opportunities:  
+I am actively seeking collaboration with researchers and professionals on projects related to:  
+- Medical imaging and diagnostics  
+- Cell and tissue engineering  
+- Innovative healthcare technologies  
 
+Feel free to reach out to connect!  
 
-Credits:
+📧 **Email:** [bassajoshua@gmail.com](mailto:bassajoshua@gmail.com)  
+📞 **Phone:** +2348162611003  
+🔗 **LinkedIn:** [LinkedIn Profile](#)  
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+### 🛠️ Skills and Tools  
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Programming Languages**  
+- Python | Matlab | R  
+
+**Medical Imaging Tools**  
+- ITK-Elastix | ITK-Transformix | ImageJ  
+
+**Deep Learning/Machine Learning Frameworks**  
+- TensorFlow | Keras | PyTorch | Monai | Scikit-Learn  
+
+**Computer Vision**  
+- OpenCV  
+
+**Data Manipulation and Analysis**  
+- NumPy | Pandas | Tidyverse | Caret  
+
+**Visualization**  
+- Matplotlib | Pillow  
+
+**Scientific Computing**  
+- SciPy | PyTorch3D  
+
+**Version Control**  
+- Git | GitHub  
+
+**Microsoft Office Suite**  
+- Word | Excel | PowerPoint  
+
+**Design Tools**  
+- Qt Designer | Adobe Photoshop | Figma  
+
+**GUI Frameworks**  
+- PySide2 | PyQt5 | PyQt6  
+
+---
+
+### 📊 GitHub Stats and Top Languages  
+
+![Bassa Joshua's GitHub Stats](#)  
+![Top Languages](#)
