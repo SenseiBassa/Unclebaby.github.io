@@ -29,7 +29,7 @@ Feel free to reach out to connect!
 
 📧 **Email:** [bassajoshua@gmail.com](mailto:bassajoshua@gmail.com)  
 📞 **Phone:** +2348162611003  
-🔗 **LinkedIn:** [LinkedIn Profile](#)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/joshua-samuel-bassa](#)  
 
 ---
 
